@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently Pursuing Master's in [Computer Science Engineering](Buffalo,The State University at Newyork)
 
-- 👯 I’m looking for a Fulltime in Software Engineering
+- I’m looking for a Fulltime in Software Engineering
 
 - 💬 Ask me about **Data-Structures,Algorithms,Machine-Learning,LLM's,Computer-Security,Hadoop,Spark,Python,OpenCV,DBMS**
 
