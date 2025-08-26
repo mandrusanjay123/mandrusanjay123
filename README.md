@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently Pursuing Master's in [Computer Science Engineering](Buffalo,The State University at Newyork)
 
-- 👯 I’m looking to collaborate on **TD-3,Actor-critic method**
+- 👯 I’m looking for a Fulltime in Software Engineering
 
-- 💬 Ask me about **Data-Structures,Algorithms,Machine-Learning,LLM's,Computer-Security,Hadoop,Spark,Python,OpenCV**
+- 💬 Ask me about **Data-Structures,Algorithms,Machine-Learning,LLM's,Computer-Security,Hadoop,Spark,Python,OpenCV,DBMS**
 
 - 📫 How to reach me **mandrusanjaykumar@gmail.com**
 
